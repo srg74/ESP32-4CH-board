@@ -2,7 +2,7 @@
 ESP32 4 channel development board
 [![release](https://img.shields.io/github/v/release/srg74/ESP32-4CH-board)](https://img.shields.io/github/v/release/srg74/ESP32-4CH-board)
 [![License: CC0](https://img.shields.io/badge/License-CC0-blue.svg?style=flat-square)](https://github.com/srg74/ESP32-4CH-board/blob/main/LICENSE)
-[![custom firmware](https://img.shields.io/static/v1?label=Custom&message=firmware&color=blue&style=flat-square)](https://github.com/srg74/ESP32-4CH-board/resources/firmware)
+[![custom firmware](https://img.shields.io/static/v1?label=Custom&message=firmware&color=blue&style=flat-square)](https://github.com/srg74/WLED-wemos-shield/blob/master/resources/Firmware/%40Aircoookie/Latest/4ch_board)
 [![Official releases](https://img.shields.io/static/v1?label=WLED&message=firmware&color=green&style=flat-square)](https://github.com/Aircoookie/WLED/releases)
 [![ESPhome](https://img.shields.io/static/v1?label=ESPhome&message=firmware&color=green&style=flat-square)](https://esphome.io)
 
@@ -31,7 +31,7 @@ I appreciate your support for my project! [![donate](https://www.paypalobjects.c
 
 ## Firmware
 
-- [WLED firmware](https://github.com/srg74/WLED-wemos-shield/blob/master/resources/Firmware/%40Aircoookie/Latest/4ch_board) file naming WLED_vXX.X_esp32_4CH_16mb.bin
+- [WLED firmware](https://github.com/srg74/WLED-wemos-shield/blob/master/resources/Firmware/%40Aircoookie/Latest/4ch_board) - file naming WLED_vXX.X_esp32_4CH_16mb.bin
 
 ### Ready to use bin files
 
