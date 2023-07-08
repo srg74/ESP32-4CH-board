@@ -31,7 +31,7 @@ I appreciate your support for my project! [![donate](https://www.paypalobjects.c
 
 ## Firmware
 
-- [WLED firmware](https://github.com/srg74/WLED-wemos-shield/blob/master/resources/Firmware/%40Aircoookie/Latest/4ch_board/WLED_0.14.0-b3_esp32_4CH_16mb.bin)
+- [WLED firmware](https://github.com/srg74/WLED-wemos-shield/blob/master/resources/Firmware/%40Aircoookie/Latest/4ch_board) file naming WLED_vXX.X_esp32_4CH_16mb.bin
 
 ### Ready to use bin files
 
