@@ -8,7 +8,7 @@ ESP32 4 channel development board
 
 I appreciate your support for my project! [![donate](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/donate/?hosted_button_id=VU7L89Z2RR7S4)
 
-[![Board](https://github.com/srg74/ESP32-4CH-board/blob/main/Resources/images/4CH_board.jpg)](https://github.com/srg74//blob/main/resources/ESP32_4ch_pinout.pdf)
+[![Board](https://github.com/srg74/ESP32-4CH-board/blob/main/Resources/images/4CH_board.jpg)
 
 ## ESP32 4 channel development board with following features
 
