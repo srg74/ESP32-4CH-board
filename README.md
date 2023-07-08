@@ -1,10 +1,10 @@
 # ESP32 4 channel development board
 ESP32 4 channel development board
 [![release](https://img.shields.io/github/v/release/srg74/ESP32-4CH-board)](https://img.shields.io/github/v/release/srg74/ESP32-4CH-board)
-[![License: CC0](https://img.shields.io/badge/License-CC0-blue.svg?style=flat-square)](https://github.com/srg74/ESP32-4CH-board/blob/main/LICENSE)
-[![custom firmware](https://img.shields.io/static/v1?label=Custom&message=firmware&color=blue&style=flat-square)](https://github.com/srg74/WLED-wemos-shield/blob/master/resources/Firmware/%40Aircoookie/Latest/4ch_board)
-[![Official releases](https://img.shields.io/static/v1?label=WLED&message=project&color=green&style=flat-square)](https://github.com/Aircoookie/WLED)
-[![ESPhome](https://img.shields.io/static/v1?label=ESPhome&message=project&color=green&style=flat-square)](https://esphome.io)
+[![License: CC0](https://img.shields.io/badge/License-CC0-blue.svg?style=flat-round)](https://github.com/srg74/ESP32-4CH-board/blob/main/LICENSE)
+[![custom firmware](https://img.shields.io/static/v1?label=Custom&message=firmware&color=blue&style=flat-round)](https://github.com/srg74/WLED-wemos-shield/blob/master/resources/Firmware/%40Aircoookie/Latest/4ch_board)
+[![Official releases](https://img.shields.io/static/v1?label=WLED&message=project&color=green&style=flat-round)](https://github.com/Aircoookie/WLED)
+[![ESPhome](https://img.shields.io/static/v1?label=ESPhome&message=project&color=green&style=flat-round)](https://esphome.io)
 
 I appreciate your support for my project! [![donate](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/donate/?hosted_button_id=VU7L89Z2RR7S4)
 
