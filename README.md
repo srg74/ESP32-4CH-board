@@ -1,5 +1,5 @@
 # ESP32 4 channel development board
-ESP32 4 channel development board
+
 [![release](https://img.shields.io/github/v/release/srg74/ESP32-4CH-board)](https://img.shields.io/github/v/release/srg74/ESP32-4CH-board)
 [![License: CC0](https://img.shields.io/badge/License-CC0-blue.svg?style=flat-round)](https://github.com/srg74/ESP32-4CH-board/blob/main/LICENSE)
 [![custom firmware](https://img.shields.io/static/v1?label=Custom&message=firmware&color=blue&style=flat-round)](https://github.com/srg74/WLED-wemos-shield/blob/master/resources/Firmware/%40Aircoookie/Latest/4ch_board)
