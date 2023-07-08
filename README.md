@@ -17,7 +17,7 @@ I appreciate your support for my project! [![donate](https://www.paypalobjects.c
 - MicroSD card socket;
 - Rotary encoder;
 - [Ethernet shield](https://github.com/srg74/ESP32_ethernet) compatible;
-- Serial connection header for programming;
+- [Serial connection header for programming](https://github.com/srg74/ESP-uploader-CH340C);
 - Level shifter for reliable data signal;
 - Solder jumpers for flexible configuration for display;
 - Board power selector (e.g 5VDC or 12/24VDC);
