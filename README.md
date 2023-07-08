@@ -16,7 +16,7 @@ I appreciate your support for my project! [![donate](https://www.paypalobjects.c
 - Can be used with WLED or ESPhome firmware;
 - MicroSD card socket;
 - Rotary encoder;
-- Ethernet shield compatible;
+- [Ethernet shield](https://github.com/srg74/ESP32_ethernet) compatible;
 - Serial connection header for programming;
 - Level shifter for reliable data signal;
 - Solder jumpers for flexible configuration for display;
@@ -27,7 +27,7 @@ I appreciate your support for my project! [![donate](https://www.paypalobjects.c
 - Relays for power saving feature (without disconnecting power from LED strip it still consumes current even if none of the LEDs are lit);
 - I2C connector for OLED display or other devices that might be integrated in a future;
 - Built in temperature and humidity sensor;
-- PWM fan circuit.
+- 4 pin PWM fan circuit header.
 
 ## Firmware
 
