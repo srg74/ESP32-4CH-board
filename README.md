@@ -26,7 +26,7 @@ I appreciate your support for my project! [![donate](https://www.paypalobjects.c
 - Headers for shield expantion;
 - Relays for power saving feature (without disconnecting power from LED strip it still consumes current even if none of the LEDs are lit);
 - I2C connector for OLED display or other devices that might be integrated in a future;
-- Built in temperature and humidity sensor;
+- Built in SHTx temperature and humidity sensor;
 - 4 pin PWM fan circuit header.
 
 ## Firmware
